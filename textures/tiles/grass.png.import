@@ -2,12 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cyo4qsko7gn46"
-valid=false
+uid="uid://eoggp80ljphb"
+path="res://.godot/imported/grass.png-3c24eff84e770e61ee9b339b940e7509.ctex"
+metadata={
+"vram_texture": false
+}
 
 [deps]
 
-source_file="res://textures/player-idle-blink.png"
+source_file="res://textures/tiles/grass.png"
+dest_files=["res://.godot/imported/grass.png-3c24eff84e770e61ee9b339b940e7509.ctex"]
 
 [params]
 
